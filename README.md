@@ -6,4 +6,5 @@ Dibawah ini adalah script auto installer v2ray x-ui di VPS Ubuntu yang bisa kali
 ## Update System Linux Ubuntu
 
 Untuk Perintahnya kalian bisa ketikan
-''sudo apt update && apt upgrade -y''
+
+`sudo apt update && apt upgrade -y`
