@@ -25,7 +25,11 @@ Untuk melakukan Install Certificate, gunakan perintah dibawah ini
 
 ``
 apt install software-properties-common -y
+``
 
+kemudian install certbot dengan perintah berikut
+
+``
 apt install certbot -y
 ``
 
